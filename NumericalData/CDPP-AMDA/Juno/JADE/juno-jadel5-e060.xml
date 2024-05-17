@@ -84,7 +84,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>64</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -99,7 +99,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>64</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -114,7 +114,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>48</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>

@@ -74,7 +74,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>43</Size>
       </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>

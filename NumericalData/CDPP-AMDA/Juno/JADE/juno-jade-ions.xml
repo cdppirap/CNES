@@ -83,7 +83,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>64</Size>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -98,7 +98,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>64</Size>
       </Structure>
       <Particle>
         <ParticleType>Ion</ParticleType>
@@ -111,9 +111,6 @@
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
       </RenderingHints>
-      <Structure>
-        <Size/>
-      </Structure>
       <Support>
         <SupportQuantity>InstrumentMode</SupportQuantity>
       </Support>

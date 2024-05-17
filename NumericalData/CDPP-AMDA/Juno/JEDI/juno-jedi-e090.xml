@@ -71,7 +71,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>24</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -87,7 +87,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>6</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -102,7 +102,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>24</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -118,7 +118,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>6</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -133,7 +133,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>24</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>
@@ -149,7 +149,7 @@
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>6</Size>
       </Structure>
       <Particle>
         <ParticleType>Electron</ParticleType>

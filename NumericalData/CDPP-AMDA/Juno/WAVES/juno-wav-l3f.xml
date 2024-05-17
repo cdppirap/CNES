@@ -81,7 +81,7 @@ BC was also supported by PADC and EPN2024-RI. The Europlanet 2024 Research Infra
         <DisplayType>Spectrogram</DisplayType>
       </RenderingHints>
       <Structure>
-        <Size/>
+        <Size>126</Size>
       </Structure>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
