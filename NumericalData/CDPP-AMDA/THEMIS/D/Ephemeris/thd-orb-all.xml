@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/D/Ephemeris/thd-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-D - Ephemeris - orbit</ResourceName>
+      <ResourceName>THEMIS-D - Ephemeris - orbit</ResourceName>
       <ReleaseDate>2024-05-15T02:02:13Z</ReleaseDate>
       <Description>
                 THEMIS D ephemeris

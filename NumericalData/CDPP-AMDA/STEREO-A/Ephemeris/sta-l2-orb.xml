@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/Ephemeris/sta-l2-orb</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - Ephemeris - orbit</ResourceName>
+      <ResourceName>STEREO A - Ephemeris - orbit</ResourceName>
       <AlternateName>STEREO-A orbit</AlternateName>
       <ReleaseDate>2024-05-15T00:15:00Z</ReleaseDate>
       <Description>STEREO-A orbit is calculated using SPICE kernels from https://sohowww.nascom.nasa.gov at IRAP</Description>

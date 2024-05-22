@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS3/FGM/mms3-fgm-srvy</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS3 - FGM - survey</ResourceName>
+      <ResourceName>MMS3 - FGM - survey</ResourceName>
       <AlternateName>survey</AlternateName>
       <ReleaseDate>2024-05-16T03:11:12Z</ReleaseDate>
       <Description>For the purpose of creating a unified FGM Level 2 data product, burst mode data is taken from DFG and survey mode data is taken

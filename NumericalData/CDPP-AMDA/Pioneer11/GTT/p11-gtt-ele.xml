@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Pioneer11/GTT/p11-gtt-ele</ResourceID>
     <ResourceHeader>
-      <ResourceName>Pioneer - Pioneer 11 - GTT - flyby jupiter - electron flux</ResourceName>
+      <ResourceName>Pioneer 11 - GTT - flyby jupiter - electron flux</ResourceName>
       <ReleaseDate>2012-09-14T08:51:46Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

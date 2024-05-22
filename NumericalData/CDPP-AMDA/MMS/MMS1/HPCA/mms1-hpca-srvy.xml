@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS1/HPCA/mms1-hpca-srvy</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS1 - HPCA - ion energy flux : survey</ResourceName>
+      <ResourceName>MMS1 - HPCA - ion energy flux : survey</ResourceName>
       <AlternateName>ion flux spectrograms : survey mode</AlternateName>
       <ReleaseDate>2024-04-19T08:23:24Z</ReleaseDate>
       <Description> </Description>

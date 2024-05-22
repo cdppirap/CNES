@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster4/CIS-CODIF/clust4-cis-prp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 4 - CIS-CODIF - prime parameters</ResourceName>
+      <ResourceName>Cluster 4 - CIS-CODIF - prime parameters</ResourceName>
       <AlternateName>CIS-CODIF Prime (Preliminary) Parameters</AlternateName>
       <ReleaseDate>2023-12-17T21:07:13Z</ReleaseDate>
       <Description>This dataset contains preliminary spin resolution measurements of the density, bulk velocity, parallel and parallel temperatures of protons and ions at the satellite in three dimensions 

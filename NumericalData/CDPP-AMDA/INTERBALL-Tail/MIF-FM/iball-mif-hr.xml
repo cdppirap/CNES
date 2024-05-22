@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/INTERBALL-Tail/MIF-FM/iball-mif-hr</ResourceID>
     <ResourceHeader>
-      <ResourceName>Interball - Interball Tail - MIF-M - high resolution</ResourceName>
+      <ResourceName>Interball Tail - MIF-M - high resolution</ResourceName>
       <ReleaseDate>2020-07-10T10:55:42Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/PLASTIC/sta-l2-pla</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - PLASTIC - proton 1D fit</ResourceName>
+      <ResourceName>STEREO A - PLASTIC - proton 1D fit</ResourceName>
       <AlternateName>STEREO PLASTIC proton parameters from 1D Maxwellian fits</AlternateName>
       <ReleaseDate>2024-03-25T02:47:08Z</ReleaseDate>
       <Description>Data from https://stereo-ssc.nascom.nasa.gov/pub. PLASTIC has a ~1 minute energy per charge (E/Q) cadence in which the electrostatic

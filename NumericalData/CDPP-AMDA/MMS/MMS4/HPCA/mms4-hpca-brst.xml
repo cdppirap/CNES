@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS4/HPCA/mms4-hpca-brst</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS4 - HPCA - ion energy flux : burst</ResourceName>
+      <ResourceName>MMS4 - HPCA - ion energy flux : burst</ResourceName>
       <AlternateName>ion flux spectrograms : burst mode</AlternateName>
       <ReleaseDate>2024-04-16T19:38:54Z</ReleaseDate>
       <Description> </Description>

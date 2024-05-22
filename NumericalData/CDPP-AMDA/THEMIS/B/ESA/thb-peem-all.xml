@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/B/ESA/thb-peem-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-B - ESA - electron onboard moments</ResourceName>
+      <ResourceName>THEMIS-B - ESA - electron onboard moments</ResourceName>
       <ReleaseDate>2024-05-16T02:01:05Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

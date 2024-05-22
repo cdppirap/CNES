@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/Ephemeris/vo2-ephem-jup</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - Ephemeris - orbit jupiter</ResourceName>
+      <ResourceName>Voyager 2 - Ephemeris - orbit jupiter</ResourceName>
       <ReleaseDate>2012-03-06T18:08:25Z</ReleaseDate>
       <Description>ephemeris - Voyager 2 position
                 orbit_jupiter@Iowa</Description>

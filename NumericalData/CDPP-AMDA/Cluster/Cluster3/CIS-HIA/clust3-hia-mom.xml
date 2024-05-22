@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster3/CIS-HIA/clust3-hia-mom</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 3 - CIS-HIA - ion moments</ResourceName>
+      <ResourceName>Cluster 3 - CIS-HIA - ion moments</ResourceName>
       <AlternateName>HIA onboard hot ion moments</AlternateName>
       <ReleaseDate>2018-11-16T15:40:13Z</ReleaseDate>
       <Description>      

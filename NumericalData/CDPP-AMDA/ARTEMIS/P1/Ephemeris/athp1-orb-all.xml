@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/ARTEMIS/P1/Ephemeris/athp1-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>ARTEMIS - ARTEMIS-P1 - Ephemeris - orbit</ResourceName>
+      <ResourceName>ARTEMIS-P1 - Ephemeris - orbit</ResourceName>
       <ReleaseDate>2024-05-16T02:02:51Z</ReleaseDate>
       <Description>
                 ARTEMIS P1 ephemeris

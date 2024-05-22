@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS4/Models/mms4-msph-models</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS4 - Analytical Models - distance to neutral sheet</ResourceName>
+      <ResourceName>MMS4 - Analytical Models - distance to neutral sheet</ResourceName>
       <AlternateName>Distance to model neutral sheet</AlternateName>
       <ReleaseDate>2024-05-16T03:11:49Z</ReleaseDate>
       <Description>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager1/MAG/vo1-mag-juprtn</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 1 - MAG - flyby jupiter - rtn</ResourceName>
+      <ResourceName>Voyager 1 - MAG - flyby jupiter - rtn</ResourceName>
       <ReleaseDate>2012-03-06T20:55:02Z</ReleaseDate>
       <Description>Voyager_1 - Voyager_1
                 MAG - Magnetometer

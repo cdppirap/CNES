@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster3/FGM/clust3-fgm-high</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 3 - FGM - 0.2 sec (5vps)</ResourceName>
+      <ResourceName>Cluster 3 - FGM - 0.2 sec (5vps)</ResourceName>
       <AlternateName>Cluster 3 5-vector-per-spin FGM Data</AlternateName>
       <ReleaseDate>2023-12-17T21:09:38Z</ReleaseDate>
       <Description>This dataset contains 5Hz resolution measurements of the magnetic field vector from the fluxgate magnetometer (FGM) instrument, in GSE.

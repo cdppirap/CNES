@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/IMP-8/MIT/imp-mit-k0</ResourceID>
     <ResourceHeader>
-      <ResourceName>IMP - IMP 8 - MIT - best fit</ResourceName>
+      <ResourceName>IMP 8 - MIT - best fit</ResourceName>
       <AlternateName>IMP 8 Solar Wind Plasma Faraday Cup Data</AlternateName>
       <ReleaseDate>2013-09-11T09:48:17Z</ReleaseDate>
       <Description>The MIT Faraday cup experiment on IMP 8 measures 

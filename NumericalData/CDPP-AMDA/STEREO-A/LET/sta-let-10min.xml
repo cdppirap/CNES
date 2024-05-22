@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/LET/sta-let-10min</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - LET - 10 min</ResourceName>
+      <ResourceName>STEREO A - LET - 10 min</ResourceName>
       <AlternateName>Ion flux 10 minutes rate</AlternateName>
       <ReleaseDate>2024-05-13T02:03:28Z</ReleaseDate>
       <Description>

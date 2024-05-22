@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Pioneer11/Ephemeris/p11-orb-jup</ResourceID>
     <ResourceHeader>
-      <ResourceName>Pioneer - Pioneer 11 - Ephemeris - orbit jupiter</ResourceName>
+      <ResourceName>Pioneer 11 - Ephemeris - orbit jupiter</ResourceName>
       <ReleaseDate>2012-03-06T18:48:48Z</ReleaseDate>
       <Description>Pioneer11 satellite positions.</Description>
       <Contact>

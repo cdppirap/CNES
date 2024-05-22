@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-B/TII/swarmb-tii-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-B - EFI / TII - cross-track</ResourceName>
+      <ResourceName>Swarm-B - EFI / TII - cross-track</ResourceName>
       <AlternateName>2Hz TII Cross-track Ion Flow Dataset</AlternateName>
       <ReleaseDate>2019-05-06T14:06:08Z</ReleaseDate>
       <Description>ToDo</Description>

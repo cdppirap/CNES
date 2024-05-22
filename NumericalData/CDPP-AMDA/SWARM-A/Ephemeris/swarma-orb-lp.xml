@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/Ephemeris/swarma-orb-lp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - Ephemeris - 0.5 s - lp extended dataset</ResourceName>
+      <ResourceName>Swarm-A - Ephemeris - 0.5 s - lp extended dataset</ResourceName>
       <AlternateName>Swarm-A orbital information from EFI / LP extended dataset</AlternateName>
       <ReleaseDate>2024-05-13T02:14:46Z</ReleaseDate>
       <Description>ToDo</Description>

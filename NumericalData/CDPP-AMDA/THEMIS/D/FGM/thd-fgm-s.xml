@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/D/FGM/thd-fgm-s</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-D - FGM - 3 sec (spin)</ResourceName>
+      <ResourceName>THEMIS-D - FGM - 3 sec (spin)</ResourceName>
       <ReleaseDate>2024-05-16T02:03:30Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

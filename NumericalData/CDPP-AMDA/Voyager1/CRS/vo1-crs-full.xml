@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager1/CRS/vo1-crs-full</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 1 - CRS - cruise</ResourceName>
+      <ResourceName>Voyager 1 - CRS - cruise</ResourceName>
       <ReleaseDate>2023-01-12T15:05:14Z</ReleaseDate>
       <Description>Voyager 1
                 CRS - Cosmic_Ray_Subsystem -

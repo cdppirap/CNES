@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/TII/swarma-tii-prov</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - EFI / TII - preliminary</ResourceName>
+      <ResourceName>Swarm-A - EFI / TII - preliminary</ResourceName>
       <AlternateName>Preliminary EFI TII Dataset</AlternateName>
       <ReleaseDate>2019-06-13T13:22:12Z</ReleaseDate>
       <Description>ToDo</Description>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/MAG/swarma-mag-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - MAG (ASM/VFM) - magnetic field in North-East-Center frame</ResourceName>
+      <ResourceName>Swarm-A - MAG (ASM/VFM) - magnetic field in North-East-Center frame</ResourceName>
       <AlternateName>Advanced / Magnetic_Data / L1B_MAGxLR_0503 dataset</AlternateName>
       <ReleaseDate>2019-04-05T21:01:09Z</ReleaseDate>
       <Description>ToDo</Description>

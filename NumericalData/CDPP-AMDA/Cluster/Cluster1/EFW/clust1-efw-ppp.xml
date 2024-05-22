@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster1/EFW/clust1-efw-ppp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 1 - EFW - prime parameters</ResourceName>
+      <ResourceName>Cluster 1 - EFW - prime parameters</ResourceName>
       <AlternateName>Cluster 1 Prime Parameters EFW Data</AlternateName>
       <ReleaseDate>2023-12-17T21:07:52Z</ReleaseDate>
       <Description>EFW Prime Parameters

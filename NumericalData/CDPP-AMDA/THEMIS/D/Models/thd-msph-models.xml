@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/D/Models/thd-msph-models</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-D - Analytical Models - distance to neutral sheet</ResourceName>
+      <ResourceName>THEMIS-D - Analytical Models - distance to neutral sheet</ResourceName>
       <AlternateName>Distance to model neutral sheet</AlternateName>
       <ReleaseDate>2024-05-15T02:02:13Z</ReleaseDate>
       <Description>

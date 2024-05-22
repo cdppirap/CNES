@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster2/Ephemeris/clust2-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 2 - Ephemeris - orbit</ResourceName>
+      <ResourceName>Cluster 2 - Ephemeris - orbit</ResourceName>
       <ReleaseDate>2023-12-10T21:07:59Z</ReleaseDate>
       <Description>Cluster-2 position</Description>
       <Contact>

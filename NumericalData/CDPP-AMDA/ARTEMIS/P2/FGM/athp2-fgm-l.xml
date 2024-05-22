@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/ARTEMIS/P2/FGM/athp2-fgm-l</ResourceID>
     <ResourceHeader>
-      <ResourceName>ARTEMIS - ARTEMIS-P2 - FGM - 0.25 sec (low)</ResourceName>
+      <ResourceName>ARTEMIS-P2 - FGM - 0.25 sec (low)</ResourceName>
       <ReleaseDate>2024-05-16T02:03:10Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

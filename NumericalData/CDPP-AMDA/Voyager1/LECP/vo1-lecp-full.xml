@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager1/LECP/vo1-lecp-full</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 1 - LECP - cruise</ResourceName>
+      <ResourceName>Voyager 1 - LECP - cruise</ResourceName>
       <ReleaseDate>2023-01-12T15:05:21Z</ReleaseDate>
       <Description>Voyager_1
                 LECP - Low_Energy_Charged_Particle - Electrons

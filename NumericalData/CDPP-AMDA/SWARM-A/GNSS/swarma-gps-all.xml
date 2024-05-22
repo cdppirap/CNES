@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/GNSS/swarma-gps-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - GNSS - tec</ResourceName>
+      <ResourceName>Swarm-A - GNSS - tec</ResourceName>
       <AlternateName>total electron content</AlternateName>
       <ReleaseDate>2022-09-30T02:55:13Z</ReleaseDate>
       <Description>The signals transmitted by the Global Navigation Satellite System (GNSS) satellites are delayed 

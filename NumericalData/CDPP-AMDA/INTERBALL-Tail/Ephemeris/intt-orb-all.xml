@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/INTERBALL-Tail/Ephemeris/intt-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Interball - Interball Tail - Ephemeris - orbit</ResourceName>
+      <ResourceName>Interball Tail - Ephemeris - orbit</ResourceName>
       <ReleaseDate>2013-05-24T10:42:32Z</ReleaseDate>
       <Description>Definitive Interball Tail satellite and subsatellite (Interball-1 and Magion-4) orbital data: Spacecraft position, velocity, and status flags.</Description>
       <Acknowledgement>The Interball project, Russian Space Research Institute (IKI) and Dr. Prokhorenko</Acknowledgement>

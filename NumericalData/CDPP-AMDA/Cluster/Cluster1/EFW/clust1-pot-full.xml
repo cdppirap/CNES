@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster1/EFW/clust1-pot-full</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 1 - EFW - s/c potential - 0.2 sec (full)</ResourceName>
+      <ResourceName>Cluster 1 - EFW - s/c potential - 0.2 sec (full)</ResourceName>
       <AlternateName>Cluster 1 Spacecraft Potential (L2)</AlternateName>
       <ReleaseDate>2023-12-17T21:15:03Z</ReleaseDate>
       <Description>L2 Spacecraft potential (0.2 sec)

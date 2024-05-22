@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-C/LP/swarmc-lp-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-C - EFI / LP - lp extended dataset</ResourceName>
+      <ResourceName>Swarm-C - EFI / LP - lp extended dataset</ResourceName>
       <AlternateName>2Hz Langmuir Probe Extended Dataset</AlternateName>
       <ReleaseDate>2024-05-13T02:30:53Z</ReleaseDate>
       <Description>The extended swb_rm EFI LP data from the probes in the so-called “harmonic 

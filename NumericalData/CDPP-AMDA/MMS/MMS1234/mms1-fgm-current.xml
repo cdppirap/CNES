@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS1234/mms1-fgm-current</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS_1234 - FGM - survey - current</ResourceName>
+      <ResourceName>MMS_1234 - FGM - survey - current</ResourceName>
       <ReleaseDate>2024-05-16T03:08:58Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

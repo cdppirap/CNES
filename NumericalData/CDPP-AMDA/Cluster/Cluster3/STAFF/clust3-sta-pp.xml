@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster3/STAFF/clust3-sta-pp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 3 - STAFF - prime parameters</ResourceName>
+      <ResourceName>Cluster 3 - STAFF - prime parameters</ResourceName>
       <AlternateName>Cluster 3 Prime Parameter STAFF Data</AlternateName>
       <ReleaseDate>2013-04-22T15:34:33Z</ReleaseDate>
       <Description>

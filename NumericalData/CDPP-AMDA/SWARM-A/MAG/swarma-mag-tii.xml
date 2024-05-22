@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/MAG/swarma-mag-tii</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - MAG (ASM/VFM) - magnetic field in cross-track frame</ResourceName>
+      <ResourceName>Swarm-A - MAG (ASM/VFM) - magnetic field in cross-track frame</ResourceName>
       <AlternateName>2Hz TII Cross-track Ion Flow Dataset</AlternateName>
       <ReleaseDate>2019-05-06T15:01:42Z</ReleaseDate>
       <Description>ToDo</Description>

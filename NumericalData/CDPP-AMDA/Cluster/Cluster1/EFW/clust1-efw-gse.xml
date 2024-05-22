@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster1/EFW/clust1-efw-gse</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 1 - EFW - electric field - 3D gse</ResourceName>
+      <ResourceName>Cluster 1 - EFW - electric field - 3D gse</ResourceName>
       <AlternateName>Cluster 1 3D electric field (L3)</AlternateName>
       <ReleaseDate>2023-12-17T21:07:40Z</ReleaseDate>
       <Description>               

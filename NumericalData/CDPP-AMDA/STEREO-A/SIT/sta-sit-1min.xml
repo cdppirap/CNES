@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/SIT/sta-sit-1min</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - SIT - 1 minute</ResourceName>
+      <ResourceName>STEREO A - SIT - 1 minute</ResourceName>
       <AlternateName>Ion flux 1 minute rate</AlternateName>
       <ReleaseDate>2024-05-13T01:55:53Z</ReleaseDate>
       <Description>STEREO IMPACT SIT - Ion flux @1min.</Description>

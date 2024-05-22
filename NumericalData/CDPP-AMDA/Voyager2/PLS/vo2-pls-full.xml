@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/PLS/vo2-pls-full</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - PLS - cruise</ResourceName>
+      <ResourceName>Voyager 2 - PLS - cruise</ResourceName>
       <ReleaseDate>2023-01-12T15:05:39Z</ReleaseDate>
       <Description>Voyager 2 PLS (Plasma_Science_Experiment data) during Cruise (from CDAWeb)</Description>
       <Contact>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS4/Ephemeris/mms4-orb-t89d</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS4 - Ephemeris - orbit t89d</ResourceName>
+      <ResourceName>MMS4 - Ephemeris - orbit t89d</ResourceName>
       <ReleaseDate>2024-05-16T03:11:49Z</ReleaseDate>
       <Description>MMS4 position</Description>
       <Contact>

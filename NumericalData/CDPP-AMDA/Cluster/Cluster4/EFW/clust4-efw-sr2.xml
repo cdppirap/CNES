@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster4/EFW/clust4-efw-sr2</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 4 - EFW - electric field - 2D isr2</ResourceName>
+      <ResourceName>Cluster 4 - EFW - electric field - 2D isr2</ResourceName>
       <AlternateName>Cluster 4 2D electric field (L3)</AlternateName>
       <ReleaseDate>2023-12-17T21:09:07Z</ReleaseDate>
       <Description> Electric Field in ISR2 is obtained from CAA C[1-4]_CP_EFW_L3_E 

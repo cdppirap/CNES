@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/D/ESA/thd-pot-mom</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-D - ESA - onboard moments : potential</ResourceName>
+      <ResourceName>THEMIS-D - ESA - onboard moments : potential</ResourceName>
       <AlternateName>S/c potential from onboard moments</AlternateName>
       <ReleaseDate>2024-05-16T02:01:26Z</ReleaseDate>
       <Description>ToDo</Description>

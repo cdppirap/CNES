@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Pioneer11/CRT/p11-crt-ion</ResourceID>
     <ResourceHeader>
-      <ResourceName>Pioneer - Pioneer 11 - CRT - flyby jupiter - ion flux</ResourceName>
+      <ResourceName>Pioneer 11 - CRT - flyby jupiter - ion flux</ResourceName>
       <ReleaseDate>2012-09-14T13:28:40Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

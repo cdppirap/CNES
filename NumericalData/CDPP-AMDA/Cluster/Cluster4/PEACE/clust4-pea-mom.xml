@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster4/PEACE/clust4-pea-mom</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 4 - PEACE - electron moments</ResourceName>
+      <ResourceName>Cluster 4 - PEACE - electron moments</ResourceName>
       <AlternateName>Cluster 4 electron moments</AlternateName>
       <ReleaseDate>2023-12-17T21:13:53Z</ReleaseDate>
       <Description> The  CAA  Moments  data  are  electron  density,  velocity  vector, 

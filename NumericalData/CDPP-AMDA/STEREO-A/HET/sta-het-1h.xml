@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/HET/sta-het-1h</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - HET - 1 hour</ResourceName>
+      <ResourceName>STEREO A - HET - 1 hour</ResourceName>
       <AlternateName>electrons and protons flux 1 hour rate</AlternateName>
       <ReleaseDate>2024-05-13T02:06:17Z</ReleaseDate>
       <Description>STEREO IMPACT HET fluxes @1hour. Detal data description is at http://www.srl.caltech.edu/STEREO/Level1/HET_public.html</Description>

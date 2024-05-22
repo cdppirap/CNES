@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Helios1/MAG/helios1-mag-corefit</ResourceID>
     <ResourceHeader>
-      <ResourceName>Helios - Helios1 - MAG - corefit : 40s</ResourceName>
+      <ResourceName>Helios1 - MAG - corefit : 40s</ResourceName>
       <AlternateName>Helios corefit data product</AlternateName>
       <ReleaseDate>2018-11-08T10:12:03Z</ReleaseDate>
       <Description> 

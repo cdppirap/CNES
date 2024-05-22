@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/Ephemeris/swarma-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - Ephemeris - 1 s - position in ITRF</ResourceName>
+      <ResourceName>Swarm-A - Ephemeris - 1 s - position in ITRF</ResourceName>
       <AlternateName>Swarm-A orbital information from FAC dataset</AlternateName>
       <ReleaseDate>2024-05-16T02:47:07Z</ReleaseDate>
       <Description> </Description>

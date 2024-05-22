@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster2/Models/c2-msph-models</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 2 - Analytical Models - distance to neutral sheet</ResourceName>
+      <ResourceName>Cluster 2 - Analytical Models - distance to neutral sheet</ResourceName>
       <AlternateName>Distance to model neutral sheet</AlternateName>
       <ReleaseDate>2023-12-10T21:07:59Z</ReleaseDate>
       <Description>

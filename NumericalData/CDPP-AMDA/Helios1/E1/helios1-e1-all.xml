@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Helios1/E1/helios1-e1-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Helios - Helios1 - E1 - corefit : protons</ResourceName>
+      <ResourceName>Helios1 - E1 - corefit : protons</ResourceName>
       <AlternateName>Helios corefit data product</AlternateName>
       <ReleaseDate>2018-11-06T18:11:24Z</ReleaseDate>
       <Description>Corefit data set  contains 

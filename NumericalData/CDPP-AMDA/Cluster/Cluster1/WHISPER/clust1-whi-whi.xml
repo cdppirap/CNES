@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster1/WHISPER/clust1-whi-whi</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 1 - WHISPER - electron density</ResourceName>
+      <ResourceName>Cluster 1 - WHISPER - electron density</ResourceName>
       <AlternateName>Cluster 1  WHISPER Data</AlternateName>
       <ReleaseDate>2023-12-17T21:15:27Z</ReleaseDate>
       <Description> Density values (and quality)  are related to sounding operations.

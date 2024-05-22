@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/B/ESA/thb-peim-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-B - ESA - ion onboard moments</ResourceName>
+      <ResourceName>THEMIS-B - ESA - ion onboard moments</ResourceName>
       <ReleaseDate>2024-05-16T02:01:04Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster1/PEACE/clust1-pea-pa</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 1 - PEACE - pitch-angle/energy distribution</ResourceName>
+      <ResourceName>Cluster 1 - PEACE - pitch-angle/energy distribution</ResourceName>
       <AlternateName>Cluster1 2D Pitch-Angle/Energy electron distribution</AlternateName>
       <ReleaseDate>2023-12-17T21:14:07Z</ReleaseDate>
       <Description> This data product contains a single pitch angle distribution per spin, 

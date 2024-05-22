@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster4/FGM/clust4-fgm-prp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 4 - FGM - 4 sec (spin)</ResourceName>
+      <ResourceName>Cluster 4 - FGM - 4 sec (spin)</ResourceName>
       <AlternateName>Cluster 4 Spin Resolution FGM Data</AlternateName>
       <ReleaseDate>2023-12-17T21:10:02Z</ReleaseDate>
       <Description>This dataset contains spin resolution (~4s) measurements of the magnetic field vector from the fluxgate magnetometer (FGM) instrument 

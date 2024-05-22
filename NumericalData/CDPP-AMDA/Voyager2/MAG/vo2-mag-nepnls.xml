@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/MAG/vo2-mag-nepnls</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - MAG - flyby neptune - nls</ResourceName>
+      <ResourceName>Voyager 2 - MAG - flyby neptune - nls</ResourceName>
       <AlternateName>Neptune Longitude System</AlternateName>
       <ReleaseDate>2012-03-06T18:08:41Z</ReleaseDate>
       <Description>Voyager_2

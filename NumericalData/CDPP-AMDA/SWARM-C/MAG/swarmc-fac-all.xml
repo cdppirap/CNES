@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-C/MAG/swarmc-fac-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-C - MAG (ASM/VFM) - field-aligned current</ResourceName>
+      <ResourceName>Swarm-C - MAG (ASM/VFM) - field-aligned current</ResourceName>
       <ReleaseDate>2024-05-16T02:51:39Z</ReleaseDate>
       <Description> </Description>
       <Acknowledgement> </Acknowledgement>

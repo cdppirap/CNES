@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-B/LET/stb-let-1day</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO B - LET - 1 day</ResourceName>
+      <ResourceName>STEREO B - LET - 1 day</ResourceName>
       <AlternateName>Ion flux 1 day rate</AlternateName>
       <ReleaseDate>2023-01-23T07:07:41Z</ReleaseDate>
       <Description>

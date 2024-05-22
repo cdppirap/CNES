@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/INTERBALL-Tail/CORALL/intt-crl-kp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Interball - Interball Tail - Corall - key parameters</ResourceName>
+      <ResourceName>Interball Tail - Corall - key parameters</ResourceName>
       <ReleaseDate>2013-05-24T11:06:59Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

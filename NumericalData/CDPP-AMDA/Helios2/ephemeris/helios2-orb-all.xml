@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Helios2/ephemeris/helios2-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Helios - Helios2 - Ephemeris - orbit</ResourceName>
+      <ResourceName>Helios2 - Ephemeris - orbit</ResourceName>
       <AlternateName>Helios2 orbit</AlternateName>
       <ReleaseDate>2018-11-06T12:06:06Z</ReleaseDate>
       <Description>Hourly heliocentric coordinate data for the Helios 2 spacecraft</Description>

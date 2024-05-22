@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS3/EDP/mms3-edp-hfesp</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS3 - EDP - survey - e spectral density</ResourceName>
+      <ResourceName>MMS3 - EDP - survey - e spectral density</ResourceName>
       <AlternateName>ac electric field spectral density / srvy / l2</AlternateName>
       <ReleaseDate>2024-05-16T03:09:59Z</ReleaseDate>
       <Description>ToDo</Description>

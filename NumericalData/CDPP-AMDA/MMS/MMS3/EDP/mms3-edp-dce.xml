@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS3/EDP/mms3-edp-dce</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS3 - EDP - fast - dc e-field</ResourceName>
+      <ResourceName>MMS3 - EDP - fast - dc e-field</ResourceName>
       <AlternateName>dc electric field / fast / l2</AlternateName>
       <ReleaseDate>2024-05-16T03:10:02Z</ReleaseDate>
       <Description>ToDo</Description>

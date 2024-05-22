@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/INTERBALL-Tail/DOK2/iball-dok-3s</ResourceID>
     <ResourceHeader>
-      <ResourceName>Interball - Interball Tail - DOK2 - ions - spectra : sunward</ResourceName>
+      <ResourceName>Interball Tail - DOK2 - ions - spectra : sunward</ResourceName>
       <AlternateName>Ion Spectra : Sunward Flow</AlternateName>
       <ReleaseDate>2004-12-16T17:45:33Z</ReleaseDate>
       <Description>ToDo</Description>

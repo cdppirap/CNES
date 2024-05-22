@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Helios1/AUXILLIARY/helios1-aux-corefit</ResourceID>
     <ResourceHeader>
-      <ResourceName>Helios - Helios1 - AUX - corefit : 40s</ResourceName>
+      <ResourceName>Helios1 - AUX - corefit : 40s</ResourceName>
       <AlternateName>Helios corefit data product : auxilliary</AlternateName>
       <ReleaseDate>2018-11-12T14:01:59Z</ReleaseDate>
       <Description> 

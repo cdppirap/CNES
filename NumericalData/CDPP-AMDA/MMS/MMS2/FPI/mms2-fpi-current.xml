@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS2/FPI/mms2-fpi-current</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS2 - FPI - fast mode - electric current</ResourceName>
+      <ResourceName>MMS2 - FPI - fast mode - electric current</ResourceName>
       <AlternateName>electric current : fast mode</AlternateName>
       <ReleaseDate>2024-05-16T03:11:39Z</ReleaseDate>
       <Description>Derived parameter from electron and ion datasets of FPI instrument in Fast Survey Mode.

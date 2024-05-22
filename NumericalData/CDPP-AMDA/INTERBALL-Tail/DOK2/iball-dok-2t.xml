@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/INTERBALL-Tail/DOK2/iball-dok-2t</ResourceID>
     <ResourceHeader>
-      <ResourceName>Interball - Interball Tail - DOK2 - electrons - time profiles : tailward</ResourceName>
+      <ResourceName>Interball Tail - DOK2 - electrons - time profiles : tailward</ResourceName>
       <AlternateName>Electron Time Profiles : Tailward Flow</AlternateName>
       <ReleaseDate>2004-12-02T14:45:57Z</ReleaseDate>
       <Description>ToDo</Description>

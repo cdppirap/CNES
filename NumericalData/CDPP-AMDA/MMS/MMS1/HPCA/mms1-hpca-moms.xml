@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS1/HPCA/mms1-hpca-moms</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS1 - HPCA - ion moments : survey</ResourceName>
+      <ResourceName>MMS1 - HPCA - ion moments : survey</ResourceName>
       <AlternateName>ion moments : survey mode</AlternateName>
       <ReleaseDate>2024-05-16T03:11:47Z</ReleaseDate>
       <Description> </Description>

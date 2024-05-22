@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-C/Ephemeris/swarmc-orb-tii</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-C - Ephemeris - 0.5 s - tii cross-track dataset</ResourceName>
+      <ResourceName>Swarm-C - Ephemeris - 0.5 s - tii cross-track dataset</ResourceName>
       <AlternateName>Swarm-C orbital information from EFI / TII cross-track dataset</AlternateName>
       <ReleaseDate>2019-04-23T15:19:24Z</ReleaseDate>
       <Description>ToDo</Description>

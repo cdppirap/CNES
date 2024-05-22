@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/LECP/vo2-lecp-ele</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - LECP - flyby jupiter - electron flux</ResourceName>
+      <ResourceName>Voyager 2 - LECP - flyby jupiter - electron flux</ResourceName>
       <ReleaseDate>2012-09-13T11:15:27Z</ReleaseDate>
       <Description>Voyager_2
                 LECP - Low_Energy_Charged_Particle - Electrons

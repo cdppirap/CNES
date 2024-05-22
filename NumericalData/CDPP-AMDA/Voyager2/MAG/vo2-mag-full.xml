@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/MAG/vo2-mag-full</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - MAG - cruise</ResourceName>
+      <ResourceName>Voyager 2 - MAG - cruise</ResourceName>
       <ReleaseDate>2023-01-12T15:05:38Z</ReleaseDate>
       <Description>Voyager 2 MAG Data (Magnetometer) during Cruise (from CDAWeb)</Description>
       <Contact>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/Ephemeris/vo2-ephem-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - Ephemeris - cruise</ResourceName>
+      <ResourceName>Voyager 2 - Ephemeris - cruise</ResourceName>
       <AlternateName>Voyager 2 cruise phase</AlternateName>
       <ReleaseDate>2019-01-28T16:41:55Z</ReleaseDate>
       <Description>Calculated from SPICE kernels at IRAP</Description>

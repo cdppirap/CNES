@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/CRS/vo2-crs-urad2</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - CRS - flyby uranus - detector D2</ResourceName>
+      <ResourceName>Voyager 2 - CRS - flyby uranus - detector D2</ResourceName>
       <ReleaseDate>2013-05-15T15:36:36Z</ReleaseDate>
       <Description>Voyager 2
                 CRS - Cosmic_Ray_Subsystem -

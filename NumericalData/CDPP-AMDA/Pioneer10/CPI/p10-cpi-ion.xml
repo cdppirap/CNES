@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Pioneer10/CPI/p10-cpi-ion</ResourceID>
     <ResourceHeader>
-      <ResourceName>Pioneer - Pioneer 10 - CPI - flyby jupiter - ion flux</ResourceName>
+      <ResourceName>Pioneer 10 - CPI - flyby jupiter - ion flux</ResourceName>
       <ReleaseDate>2012-09-13T15:54:27Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

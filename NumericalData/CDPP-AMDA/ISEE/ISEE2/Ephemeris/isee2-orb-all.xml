@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/ISEE/ISEE2/Ephemeris/isee2-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>ISEE - ISEE 2 - Ephemeris - orbit</ResourceName>
+      <ResourceName>ISEE 2 - Ephemeris - orbit</ResourceName>
       <ReleaseDate>2012-03-06T20:07:04Z</ReleaseDate>
       <Description>ISEE-2 satellite position and magnetic field model information.</Description>
       <Contact>

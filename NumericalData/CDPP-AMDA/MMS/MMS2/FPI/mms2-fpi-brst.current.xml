@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS2/FPI/mms2-fpi-brst.current</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS2 - FPI - burst mode - electric current</ResourceName>
+      <ResourceName>MMS2 - FPI - burst mode - electric current</ResourceName>
       <AlternateName>electric current : burst mode</AlternateName>
       <ReleaseDate>2024-05-02T08:57:55Z</ReleaseDate>
       <Description>Derived parameter from electron and ion datasets of FPI instrument in Burst Mode.

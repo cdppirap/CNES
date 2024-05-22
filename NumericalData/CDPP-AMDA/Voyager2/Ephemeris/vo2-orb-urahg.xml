@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager2/Ephemeris/vo2-orb-urahg</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 2 - Ephemeris - orbit uranus (heliographic)</ResourceName>
+      <ResourceName>Voyager 2 - Ephemeris - orbit uranus (heliographic)</ResourceName>
       <ReleaseDate>2013-05-15T09:27:00Z</ReleaseDate>
       <Description>ephemeris - Voyager 2 position
                 orbit_uranus(heliographic)@PDS</Description>

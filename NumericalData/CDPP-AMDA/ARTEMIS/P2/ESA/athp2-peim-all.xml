@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/ARTEMIS/P2/ESA/athp2-peim-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>ARTEMIS - ARTEMIS-P2 - ESA - ion onboard moments</ResourceName>
+      <ResourceName>ARTEMIS-P2 - ESA - ion onboard moments</ResourceName>
       <ReleaseDate>2024-05-16T02:01:19Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Voyager1/CRS/vo1-crs-ele</ResourceID>
     <ResourceHeader>
-      <ResourceName>Voyager - Voyager 1 - CRS - flyby jupiter - electron flux</ResourceName>
+      <ResourceName>Voyager 1 - CRS - flyby jupiter - electron flux</ResourceName>
       <ReleaseDate>2012-09-13T08:22:15Z</ReleaseDate>
       <Description>Voyager 1
                 CRS - Cosmic_Ray_Subsystem - 

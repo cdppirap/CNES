@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS2/EDP/mms2-edp-scpot</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS2 - EDP - fast - scpot</ResourceName>
+      <ResourceName>MMS2 - EDP - fast - scpot</ResourceName>
       <AlternateName>sc potential / fast / l2</AlternateName>
       <ReleaseDate>2024-05-16T03:09:58Z</ReleaseDate>
       <Description>ToDo</Description>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/MMS/MMS1/EDP/mms1-dce-brst</ResourceID>
     <ResourceHeader>
-      <ResourceName>MMS - MMS1 - EDP - burst - dc e-field</ResourceName>
+      <ResourceName>MMS1 - EDP - burst - dc e-field</ResourceName>
       <AlternateName>dc electric field / burst / l2</AlternateName>
       <ReleaseDate>2024-03-26T05:27:41Z</ReleaseDate>
       <Description>ToDo</Description>

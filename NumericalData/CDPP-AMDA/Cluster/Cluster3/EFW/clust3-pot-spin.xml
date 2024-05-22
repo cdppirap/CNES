@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster3/EFW/clust3-pot-spin</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 3 - EFW - s/c potential - 4 sec (spin)</ResourceName>
+      <ResourceName>Cluster 3 - EFW - s/c potential - 4 sec (spin)</ResourceName>
       <AlternateName>Cluster 3 Spacecraft Potential (L3)</AlternateName>
       <ReleaseDate>2023-12-17T21:15:24Z</ReleaseDate>
       <Description>

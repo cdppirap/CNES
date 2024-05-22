@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/MAG/sta-b-1min</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - MAG - 1 min</ResourceName>
+      <ResourceName>STEREO A - MAG - 1 min</ResourceName>
       <AlternateName>Magnetic Field : 1 min averaged</AlternateName>
       <ReleaseDate>2024-04-15T01:19:36Z</ReleaseDate>
       <Description>Data from http://aten.igpp.ucla.edu. The averaged total field is also averaged from the high resolution total field and not from the averaged components.</Description>

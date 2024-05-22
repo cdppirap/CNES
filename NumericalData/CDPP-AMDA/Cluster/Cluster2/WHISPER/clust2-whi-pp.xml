@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Cluster/Cluster2/WHISPER/clust2-whi-pp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster - Cluster 2 - WHISPER - electric field : spectral density</ResourceName>
+      <ResourceName>Cluster 2 - WHISPER - electric field : spectral density</ResourceName>
       <AlternateName>Cluster 2 Prime Parameter WHISPER Data</AlternateName>
       <ReleaseDate>2013-04-23T11:06:36Z</ReleaseDate>
       <Description>Wave power values: E_pow_f4, E_pow_f5, E_pow_f6, E_pow_su and E_var_ts, are related to recording of natural wave emissions.

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/ISEE/ISEE2/FVA/isee2-fva-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>ISEE - ISEE 2 - FVA - energetic particles fluxes</ResourceName>
+      <ResourceName>ISEE 2 - FVA - energetic particles fluxes</ResourceName>
       <ReleaseDate>2012-03-06T20:10:22Z</ReleaseDate>
       <Description>Reconstructed in IRAP from CDAWeb CDROM and IAS software.</Description>
       <Contact>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/THEMIS/E/Models/the-t96-model</ResourceID>
     <ResourceHeader>
-      <ResourceName>THEMIS - THEMIS-E - Analytical Models - T96 field model</ResourceName>
+      <ResourceName>THEMIS-E - Analytical Models - T96 field model</ResourceName>
       <AlternateName>Tsyganenko96 geomagnetospheric magnetic field model</AlternateName>
       <ReleaseDate>2024-05-16T02:02:10Z</ReleaseDate>
       <Description>A data-based Tsyganenko96 model computes the geomagnetospheric magnetic field with an explicitly defined realistic magnetopause, large-scale Region 1 and 2 Birkeland current systems, and the IMF penetration across the boundary. The model uses the following inputs :

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-A/SEPT/sta-sept-1min</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO A - SEPT - 1 min</ResourceName>
+      <ResourceName>STEREO A - SEPT - 1 min</ResourceName>
       <AlternateName>Electron and Proton flux 1 minute rate</AlternateName>
       <ReleaseDate>2024-02-08T17:40:25Z</ReleaseDate>
       <Description>

@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/SWARM-A/MAG/swarmac-fac-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Swarm - Swarm-A - MAG (ASM/VFM) - field-aligned current (A+C)</ResourceName>
+      <ResourceName>Swarm-A - MAG (ASM/VFM) - field-aligned current (A+C)</ResourceName>
       <AlternateName>Level2daily/Entire_mission_data/FAC dataset</AlternateName>
       <ReleaseDate>2024-05-16T02:53:13Z</ReleaseDate>
       <Description>ToDo</Description>

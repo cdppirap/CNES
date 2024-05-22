@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/STEREO-B/SEPT/stb-sept-1day</ResourceID>
     <ResourceHeader>
-      <ResourceName>STEREO - STEREO B - SEPT - 1 day</ResourceName>
+      <ResourceName>STEREO B - SEPT - 1 day</ResourceName>
       <AlternateName>Electron and Proton flux 1 day rate</AlternateName>
       <ReleaseDate>2020-05-25T08:53:29Z</ReleaseDate>
       <Description>

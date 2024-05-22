@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/INTERBALL-Tail/MIF-FM/intt-fm-kp</ResourceID>
     <ResourceHeader>
-      <ResourceName>Interball - Interball Tail - MIF-M - key parameters</ResourceName>
+      <ResourceName>Interball Tail - MIF-M - key parameters</ResourceName>
       <ReleaseDate>2012-03-06T15:38:45Z</ReleaseDate>
       <Description>ToDo</Description>
       <Contact>

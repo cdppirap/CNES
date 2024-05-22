@@ -4,7 +4,7 @@
   <NumericalData>
     <ResourceID>spase://CNES/NumericalData/CDPP-AMDA/Helios1/ephemeris/helios1-orb-all</ResourceID>
     <ResourceHeader>
-      <ResourceName>Helios - Helios1 - Ephemeris - orbit</ResourceName>
+      <ResourceName>Helios1 - Ephemeris - orbit</ResourceName>
       <AlternateName>Helios1 orbit</AlternateName>
       <ReleaseDate>2018-11-06T11:55:57Z</ReleaseDate>
       <Description>Hourly heliocentric coordinate data for the Helios 1 spacecraft </Description>
